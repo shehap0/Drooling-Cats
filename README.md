@@ -39,7 +39,7 @@ From solo stares to stadium-sized crowds — we collect them all.
 ## How to join the army 🫡
 
 1. **Give us a star** ⭐ (the cat demands it)
-2. `git clone ` → curl the whole repo and become one with the drool
+2. `git clone https://github.com/shehap0/Drooling-Cats` → curl the whole repo and become one with the drool
 3. Add your fresh drooling cats to the gallery
 4. Open a PR and **join the army**
 
